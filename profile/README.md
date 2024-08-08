@@ -107,3 +107,7 @@ License
 ElegantGlacier is open-source software licensed under the MIT license.
 
 This README file provides clear installation instructions, usage examples, and a brief overview of the utility functions included in the `ElegantGlacier` library. It should help developers get started quickly and understand how to integrate the library into their WordPress themes.
+
+## Next steps
+- create a sample theme for the project
+- write the tests for the project
