@@ -1,12 +1,14 @@
-## Hi there 👋
+# ElegantGlacier
 
-<!--
+ElegantGlacier is a minimal PHP library designed to integrate Twig templating with WordPress. It provides utility functions that wrap around WordPress functions to make them more readable and maintainable.
 
-**Here are some ideas to get you started:**
+## Installation
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+To install ElegantGlacier, follow these steps:
+
+1. Navigate to your WordPress theme directory.
+2. Run the following command to require ElegantGlacier using Composer:
+
+   ```sh
+   composer require your-vendor/elegant-glacier
+   ```
